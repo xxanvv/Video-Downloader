@@ -2,6 +2,9 @@
 
 A modern, user-friendly GUI application for downloading videos from various sources. Built with Python, PyQt6, and yt-dlp, this application provides a sleek dark-themed interface with robust download management capabilities.
 
+# GUI
+![GUI](screenshots/Main.png)
+
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![PyQt6](https://img.shields.io/badge/PyQt-6.0+-blue.svg)
 
